@@ -1,1 +1,1 @@
-# loyalty-audit-api
+# Loyalty Audit API
